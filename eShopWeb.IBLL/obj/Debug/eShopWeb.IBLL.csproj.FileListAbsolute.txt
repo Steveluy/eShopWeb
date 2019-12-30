@@ -1,0 +1,13 @@
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\bin\Debug\eShopWeb.IBLL.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\bin\Debug\eShopWeb.IBLL.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\obj\Debug\eShopWeb.IBLL.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\obj\Debug\eShopWeb.IBLL.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\bin\Debug\eShopWeb.DTO.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\bin\Debug\eShopWeb.DTO.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\obj\Debug\eShopWeb.IBLL.csproj.CopyComplete
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\bin\Debug\eShopWeb.Models.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\bin\Debug\EntityFramework.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\bin\Debug\eShopWeb.Models.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\bin\Debug\eShopWeb.Models.dll.config
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\bin\Debug\EntityFramework.xml
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IBLL\obj\Debug\eShopWeb.IBLL.csprojAssemblyReference.cache

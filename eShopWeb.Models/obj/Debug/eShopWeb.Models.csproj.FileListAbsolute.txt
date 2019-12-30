@@ -1,0 +1,13 @@
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\bin\Debug\eShopWeb.Models.dll.config
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\bin\Debug\eShopWeb.Models.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\bin\Debug\eShopWeb.Models.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\bin\Debug\EntityFramework.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\bin\Debug\EntityFramework.xml
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\obj\Debug\eShopWeb.Models.csproj.CopyComplete
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\obj\Debug\eShopWeb.Models.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\obj\Debug\eShopWeb.Models.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\obj\Debug\eShopWeb.Models.csprojAssemblyReference.cache
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\obj\Debug\eShopWeb.Models.csproj.GenerateResource.cache
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.Models\obj\Debug\eShopWeb.Models.Migrations.createTable001.resources

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<eShopWeb.DTO.GoodsDTO>
+
+@{
+    ViewBag.Title = "商品列表";
+}
+
+<h2>GoodList</h2>
+
+<p>
+    @Html.ActionLink("新增", "CreateGood")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.imgUrl)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.price_old)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.imgUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price_old)
+            </td>
+            <td>
+                @Html.ActionLink("修改", "EditGood", new { id = item.id }) |
+                @Html.ActionLink("删除","Delete",new { id = item.id },new { onclick="return confirm('您确定要删除该条数据吗？')"})
+            </td>
+        </tr>
+    }
+</table>
+<script type="text/javascript">
+    function del_ok(op) {
+        alert(op);
+        
+        //询问框
+       return layer.confirm('是否删除？', {
+            btn: ['确定', '取消'] //按钮
+        }, function () {
+            layer.msg('成功！', { icon: 1 });
+            }, function () {
+                layer.close();
+        });
+    }
+</script>

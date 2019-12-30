@@ -1,0 +1,13 @@
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\bin\Debug\eShopWeb.IDAL.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\bin\Debug\eShopWeb.IDAL.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\bin\Debug\eShopWeb.Models.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\bin\Debug\EntityFramework.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\bin\Debug\eShopWeb.Models.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\bin\Debug\eShopWeb.Models.dll.config
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\bin\Debug\EntityFramework.xml
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\obj\Debug\eShopWeb.IDAL.csproj.CopyComplete
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\obj\Debug\eShopWeb.IDAL.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\obj\Debug\eShopWeb.IDAL.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\bin\Debug\eShopWeb.DTO.dll
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\bin\Debug\eShopWeb.DTO.pdb
+C:\Users\micro\OneDrive\Code\WeChatProject\eShopWeb\eShopWeb.IDAL\obj\Debug\eShopWeb.IDAL.csprojAssemblyReference.cache
